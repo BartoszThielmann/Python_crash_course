@@ -1,0 +1,4 @@
+In Python you can create integers
+In Python you can create classes
+In Python you can use dictionaries
+In Python you can work with lists
